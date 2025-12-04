@@ -21,19 +21,6 @@ body {
     z-index: 1;
 }
 
-.heart-container {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    margin: 0 auto 2rem;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-}
-
-.heart-container:hover {
-    transform: scale(1.1);
-}
-
 .heart {
     background-color: #ff3366;
     width: 50px;
